@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/822a84a0-d31a-4813-a510-21b9b177b6c1)# Spell-checker-using-hash-tables
+# Spell-checker-using-hash-tables
 ## Overview of the Project
 - A spell-checker tool that identifies misspelled words in a sentence.
 - Provides word suggestions using edit distance.
