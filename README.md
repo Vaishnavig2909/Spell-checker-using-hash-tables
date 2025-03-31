@@ -148,6 +148,7 @@ It is sensitive to string length; longer strings tend to have larger distances.
 Winkler adjustment: Adds a prefix scale factor p:
 ![image](https://github.com/user-attachments/assets/8de923f0-ec2a-4f74-aec2-c2836f609f23)
 ![image](https://github.com/user-attachments/assets/a97edb42-0b2e-4d17-aa22-b9943f82175b)
+
 where l is the length of the common prefix up to a max of 4, and p is a constant scaling factor.
 
 - Complexity:
